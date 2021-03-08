@@ -1,0 +1,27 @@
+#left-image {
+    height: 400px;
+    width: 400px;
+    float:left;
+    margin-right: 5px;
+    }
+
+.right-image {
+    height: 250px;
+    width: 250px;
+    margin-bottom: 15px;
+
+}
+
+.top-image {
+
+    height: 600x;
+    width: 600px;
+    
+}
+
+.bottom-image {
+
+    height: 600x;
+    width: 600px;
+    
+}
